@@ -99,10 +99,10 @@
   
 </details>
 
-<img src="./pics/0.png" width="640" height="320" align="left">
+<!-- <img src="./pics/0.png" width="640" height="320" align="left">
 <img src="./pics/1.png" width="640" height="320" align="left">
 <img src="./pics/3.png" width="640" height="320" align="left">
-<img src="./pics/4.png" width="640" height="320" align="left">
+<img src="./pics/4.png" width="640" height="320" align="left"> -->
 <!-- <details>
   <summary>Reviews / Отзывы </summary>
 
