@@ -57,7 +57,7 @@
   ### Это игра в жанре shoot 'em up, где вы сражаетесь с ангелами.
   
   ### Противники
-  Вот немyого информации о противниках включая сколько очков вы получите за их убийство и их здоровье (сколько попаданий они могут выдержать)
+  Вот немного информации о противниках включая сколько очков вы получите за их убийство и их здоровье (сколько попаданий они могут выдержать)
   
   
   <table>
@@ -99,10 +99,10 @@
   
 </details>
 
-<!-- <img src="./pics/0.png" width="640" height="320" align="left">
+<img src="./pics/0.png" width="640" height="320" align="left">
 <img src="./pics/1.png" width="640" height="320" align="left">
 <img src="./pics/3.png" width="640" height="320" align="left">
-<img src="./pics/4.png" width="640" height="320" align="left"> -->
+<img src="./pics/4.png" width="640" height="320" align="left">
 <!-- <details>
   <summary>Reviews / Отзывы </summary>
 
