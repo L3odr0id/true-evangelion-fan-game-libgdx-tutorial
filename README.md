@@ -1,5 +1,5 @@
 # True Evangelion fan game  + libgdx tutorial
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.true-evangelion-fan-game-libgdx-tutorial)
 <details>
   <summary>English</summary>
 
@@ -103,6 +103,7 @@
 <img src="./pics/1.png" width="640" height="320" align="left">
 <img src="./pics/3.png" width="640" height="320" align="left">
 <img src="./pics/4.png" width="640" height="320" align="left">
+
 <!-- <details>
   <summary>Reviews / Отзывы </summary>
 
@@ -110,6 +111,4 @@
   
 </details> -->
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.true-evangelion-fan-game-libgdx-tutorial)
 
