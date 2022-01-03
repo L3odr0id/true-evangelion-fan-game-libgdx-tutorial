@@ -110,3 +110,6 @@
   
 </details> -->
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.true-evangelion-fan-game-libgdx-tutorial)
+
