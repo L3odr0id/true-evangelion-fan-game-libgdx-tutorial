@@ -8,7 +8,6 @@
   ### Enemies
   Here is some information about the enemies, including how many points you get for killing them and their health (how many hits they can take)
   
-  
   <table>
 <thead>
   <tr>
